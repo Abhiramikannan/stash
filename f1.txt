@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 hello
 how are you
+=======
+welcome 
+>>>>>>> Stashed changes
